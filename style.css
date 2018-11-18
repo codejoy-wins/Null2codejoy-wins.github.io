@@ -2,7 +2,7 @@ body{
     background-color:black;
 }
 #inside-f{
-    background-color: gold;
+    background-color: #b71c1c;
     position:fixed;
 }
 #footer{
@@ -24,8 +24,12 @@ body{
     color:crimson;
 }
 
-
-
+#superspacer{
+    height: 100px;
+}
+.bluecontain{
+    text-align: center;
+}
 .blue{
     color:aqua;
     background-color: black;
@@ -152,7 +156,7 @@ body{
     opacity: .5;
 }
 #fantasy{
-    height:400px;
+    height:600px;
     text-align: center;
 }
 #starbros{
